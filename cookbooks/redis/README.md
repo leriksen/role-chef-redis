@@ -1,4 +1,3 @@
 # redis
 
-TODO: Enter the cookbook description here.
-
+create Redis server
