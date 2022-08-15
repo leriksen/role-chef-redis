@@ -1,0 +1,5 @@
+{
+  "redis": {
+    "cert_name": "redis-app-dev.redis.australiasoutheast.cloudapp.azure.com"
+  }
+}
